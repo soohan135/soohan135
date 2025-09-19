@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=auto&amp;height=200&amp;text=SLICE&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=desc%20function%20is%20also%20rotated.&amp;descAlign=60&amp;descAlignY=44" />&nbsp
+  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=auto&amp;height=200&amp;text=5oo_han135&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=desc%20function%20is%20also%20rotated.&amp;descAlign=60&amp;descAlignY=44" />&nbsp
 </div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
