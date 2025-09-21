@@ -37,6 +37,6 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?svg?style=flat-square&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
