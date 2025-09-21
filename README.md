@@ -39,3 +39,9 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
+
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psh531&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
+</div>
