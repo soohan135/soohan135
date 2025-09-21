@@ -25,7 +25,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C" />&nbsp
+  <img src="https://img.shields.io/badge/pytorch-#EE4C2C.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
 </div>
 
 <br>
